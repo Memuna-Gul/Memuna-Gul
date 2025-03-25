@@ -15,8 +15,6 @@ Python, SQL, JavaScript, Markdown
 ### 🧰 Frameworks and Libraries
 TensorFlow, scikit-learn, NumPy, Pandas, OpenAI API, Gemini API
 
-### 🤖 AI & ML Models
-OpenAI, Gemini, LLaMA
 
 ---
 
