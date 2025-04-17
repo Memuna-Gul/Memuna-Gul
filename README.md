@@ -24,7 +24,7 @@ TensorFlow, scikit-learn, NumPy, Pandas, OpenAI API, Gemini API
 ---
 
 ## 📬 Contact
-📧 **Email:** mehmunagul221@gmail.com  
+📧 **Email:** _____________  
 💼 **LinkedIn:** [linkedin.com/in/memuna-gul](https://www.linkedin.com/in/memunagul/)  
 🐱 **GitHub:** [github.com/memunagul](https://github.com/Memuna-Gul)  
 
